@@ -1,0 +1,11 @@
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.exe.config
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.exe
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\bin\Debug\DemoTemplate.pdb
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.csprojResolveAssemblyReference.cache
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.Properties.Resources.resources
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.csproj.GenerateResource.Cache
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.exe
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.pdb
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.frmMain.resources
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.frmLogin.resources
+C:\Users\DuyenICT\Documents\Visual Studio 2012\Projects\DemoTemplate\DemoTemplate\obj\Debug\DemoTemplate.frmInput.resources
